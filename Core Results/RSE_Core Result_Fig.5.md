@@ -1,0 +1,1 @@
+![[D50_factors_barplot.png]]
