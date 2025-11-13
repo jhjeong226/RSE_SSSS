@@ -1,3 +1,3 @@
 Figure 4. Environmental drivers of U90 (growth onset) timing. Pearson correlation coefficients between monthly environmental variables and U90 timing for HLS (2016-2023, n=8, gray bars) and MODIS MCD12Q2 (2001-2023, n=23, black bars) datasets. Variables include precipitation (P), salinity (S), air temperature (T), accumulated temperature (Acc.T), and vapor pressure deficit (VPD) for May-August. Salinity during May-July consistently showed the strongest positive correlations across both temporal scales. * p<0.05, ** p<0.01.
 
-![[U90_factors_barplot.png]]
+![[U90_factors_panels_T-AccT-VPD-P-S.png]]
