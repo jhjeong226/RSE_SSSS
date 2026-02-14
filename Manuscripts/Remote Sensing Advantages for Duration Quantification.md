@@ -31,4 +31,4 @@ The remote sensing approach for phenology monitoring offers distinct advantages 
 ## Connections
 - 상위개념노트: [[00.RSE Rice Phenology Contents]]
 - 이전 노트: [[5.1-2. Physiological Basis of Reproductive Stage Duration]]
-- 다음 노트: [[5.1-4. Spatial Heterogeneity as Performance Determinant]]
+- 다음 노트: [[5.1-3. Spatial Heterogeneity as Performance Determinant]]
