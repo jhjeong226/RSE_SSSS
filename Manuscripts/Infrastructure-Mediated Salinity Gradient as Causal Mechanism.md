@@ -31,4 +31,4 @@ The infrastructure-mediated salinity distribution provides a mechanistic explana
 ## Connections
 - 상위개념노트: [[00.RSE Rice Phenology Contents]]
 - 이전 노트: [[5.3-1. Chronic Vulnerability Identification Through Spatial Anlaysis]]
-- 다음 노트: [[5.3-3. Integration of Temporal and Spatial Findings]]
+- 다음 노트: [[5.3-2. Integration of Temporal and Spatial Findings]]
