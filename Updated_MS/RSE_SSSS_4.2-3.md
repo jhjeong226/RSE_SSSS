@@ -1,0 +1,7 @@
+In contrast to U90, no environmental variable showed a significant association with D50 timing across both datasets (Fig. 5). After controlling for U90 influence through partial correlation, July salinity was the only variable reaching statistical significance, showing a negative association with D50 timing in the long-term dataset (MCD: r = −0.474, p = 0.026, n = 23). This association was not reproduced in the recent period, where July salinity showed a positive, non-significant relationship (HLS: r = +0.673, p = 0.097, n = 8). Across all four months, salinity partial correlations with D50 were positive in the recent period (HLS: r = +0.227 to +0.674) and negative in the long-term period (MCD: r = −0.051 to −0.474).
+
+U90과 대조적으로, 두 데이터셋 모두에서 D50 타이밍과 유의미한 연관성을 보인 환경 변수는 없었습니다(그림 5). 부분 상관관계를 통해 U90의 영향을 통제한 후, 7월의 염도는 통계적으로 유의미한 유일한 변수로 나타났으며, 장기 데이터셋(MCD: r = -0.474, p = 0.026, n = 23)에서 D50 타이밍과 음의 연관성을 보였습니다. 이 연관성은 7월의 염도가 긍정적이고 비(非)signific 관계(HLS: r = +0.673, p = 0.097, n = 8)를 보인 최근 기간에는 재현되지 않았습니다(HLS: r = +0.227에서 +0.674). 네 달 모두에서 D50과의 염도 부분 상관관계는 최근 기간(HLS: r = +0.051에서 -0.474)에는 긍정적이었고, 장기 기간(MCD: r = -0.051에서 -0.474)에는 부정적이었습니다.
+## Connections
+- 상위개념노트: [[00.RSE_SSSS_Structure]]
+- 이전 노트: [[RSE_SSSS_4.2-2]]
+- 다음 노트: [[RSE_SSSS_4.2-4]]

@@ -1,0 +1,7 @@
+From an operational perspective, U90-D50 derived from standard land surface phenology products offers a practical pathway for scalable yield estimation. The strong performance observed for spatially uniform cultivars suggests that the metric effectively tracks pixel-level yield variation where growth conditions are homogeneous. Where within-field spatial heterogeneity is high, however, the correspondence between point-sampled yield and satellite-observed spatial means is likely to weaken regardless of metric quality, as demonstrated by the SK result. Under such conditions, spatially distributed yield sampling designs would be required to fully realize the predictive potential of the approach. Taken together, these findings indicate that the reliability of satellite-based phenological yield proxies depends not only on metric quality but also on the spatial structure of the cultivation environment and the design of ground validation protocols.
+
+운영적 관점에서, 표준 지표면 생물시계 제품에서 도출된 U90-D50은 확장 가능한 수확량 추정을 위한 실용적인 경로를 제공한다. 공간적으로 균일한 품종에서 관찰된 우수한 성능은 이 지표가 성장 조건이 균일한 곳에서 픽셀 수준의 수확량 변동을 효과적으로 추적함을 시사한다. 그러나 SK 결과가 보여주듯, 밭 내 공간적 이질성이 높은 곳에서는 지표의 품질과 무관하게 점 샘플링 수확량과 위성 관측 공간 평균값 간의 상관관계가 약화될 가능성이 높다. 이러한 조건에서는 접근법의 예측 잠재력을 완전히 실현하기 위해 공간적으로 분포된 수확량 샘플링 설계가 필요할 것이다. 종합하면, 이러한 결과는 위성 기반 생태학적 수확량 대리변수의 신뢰성이 지표의 품질뿐만 아니라 재배 환경의 공간적 구조와 지상 검증 프로토콜 설계에 달려 있음을 시사한다.
+## Connections
+- 상위개념노트: [[00.RSE_SSSS_Structure]]
+- 이전 노트: [[RSE_SSSS_5.1-3]]
+- 다음 노트: [[RSE_SSSS_5.2-1]]
