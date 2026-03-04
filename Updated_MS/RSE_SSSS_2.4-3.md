@@ -1,0 +1,8 @@
+To achieve higher spatial resolution phenological characterization, a Multi-Source Land Surface Phenology (MSLSP) product was generated for the study site using Harmonized Landsat and Sentinel-2 (HLS) surface reflectance data. HLS provides 30 m spatial resolution imagery at a 2–3 day revisit frequency, with coverage beginning in 2016 (Claverie et al., 2018). The phenology detection algorithm developed by Bolton et al. (2020), originally designed for North America, was applied to HLS data to extract timing metrics. This algorithm identifies the following timing metrics: U15, U50, and U90 (the dates at which 15%, 50%, and 90% of the seasonal greenness increase is reached, respectively), Peak (the date of maximum greenness), and D90, D50, and D15 (the dates at which greenness has declined to 90%, 50%, and 15% of the peak value, respectively). MSLSP was employed for short-term analysis covering the field data collection period (2016–2023), enabling direct comparison with field-measured yields.
+
+더 높은 공간 해상도의 생물학적 계절 특성 분석을 위해, 연구 지역에 대해 조화된 랜드샛 및 센티넬-2(HLS) 표면 반사율 데이터를 활용한 다중원천 지표면 생물학적 계절(MSLSP) 제품이 생성되었다. HLS는 2016년부터 시작된 커버리지로 2~3일의 재방문 주기로 30m 공간 해상도의 영상을 제공한다(Claverie et al., 2018). Bolton et al. (2020)이 북미 지역을 위해 개발한 생물학적 계절 변화 감지 알고리즘을 HLS 데이터에 적용하여 시기 지표를 추출하였다. 이 알고리즘은 다음과 같은 시기 지표를 식별한다: U15, U50, U90(각각 계절적 녹색 증가량의 15%, 50%, 90%에 도달하는 날짜), Peak(최대 녹화도 달성일), D90, D50, D15(녹화도가 각각 최대값의 90%, 50%, 15%로 감소한 날짜)를 식별합니다. 현장 데이터 수집 기간(2016–2023)을 포괄하는 단기 분석에는 MSLSP를 활용하여 현장 측정 수확량과의 직접 비교를 가능하게 했습니다.
+
+## Connections
+- 상위개념노트: [[00.RSE_SSSS_Structure]]
+- 이전 노트: [[RSE_SSSS_2.4-2]]
+- 다음 노트: [[RSE_SSSS_3.1-1]]

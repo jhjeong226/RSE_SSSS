@@ -1,0 +1,7 @@
+The diagnostic approach demonstrated here advances satellite-based agricultural monitoring from correlation-driven yield prediction toward diagnosing environmental constraints on crop productivity. Coastal and reclaimed agricultural systems worldwide face analogous challenges. Spatially variable salinity stress, mediated by irrigation infrastructure, generates heterogeneous productivity patterns across such landscapes. Conventional monitoring approaches, however, cannot attribute yield variation to specific environmental drivers operating at discrete developmental windows. The analytical framework developed here addresses this limitation by identifying temporally resolved environmental drivers and mapping the resulting vulnerability spatially across the landscape. Furthermore, this framework is transferable to other systems where satellite-derived phenology data and environmental monitoring records are available.
+
+여기서 입증된 진단 접근 방식은 상관관계 기반 수확량 예측에서 작물 생산성에 대한 환경 제약을 진단하는 데까지 위성 기반 농업 모니터링을 발전시킵니다. 전 세계 해안 및 간척 농업 시스템도 유사한 도전에 직면해 있습니다. 관개 인프라에 의해 매개되는 공간적으로 가변적인 염분 스트레스는 이러한 환경 전반에 걸쳐 이질적인 생산성 패턴을 생성합니다. 그러나 기존의 모니터링 접근 방식은 개별 개발 기간에서 작동하는 특정 환경 동인에 수확량 변동을 귀속시킬 수 없습니다. 여기서 개발된 분석 프레임워크는 시간적으로 해결된 환경 동인을 식별하고 그로 인한 취약성을 환경 전반에 걸쳐 공간적으로 매핑함으로써 이러한 한계를 해결합니다. 또한, 이 프레임워크는 위성에서 파생된 현상학 데이터와 환경 모니터링 기록을 사용할 수 있는 다른 시스템으로 이전할 수 있습니다.  
+## Connections
+- 상위개념노트: [[00.RSE_SSSS_Structure]]
+- 이전 노트: [[RSE_SSSS_6-1]]
+- 다음 노트: [[RSE_SSSS_6-3]]

@@ -1,0 +1,8 @@
+During the study period, 45 different rice cultivars were grown across Saedlman's operation, with annual cultivar selection varying in response to market conditions and agronomic performance (Supplementary Table S1). While most cultivars were medium- to late-maturing, they exhibited substantial diversity in morphological traits, stress tolerance, grain quality, and yield potential. Among these 45 cultivars, only three were grown in all seven years. Golden Queen (GQ, code 120) is a semi-glutinous medium-late japonica cultivar. Dongjinchal (DJ, code 180) is a glutinous cultivar for food processing. Samkwang (SK, code 240) is a non-glutinous medium-late cultivar. These three cultivars provide seven years of observations each (n=7 per cultivar), enabling cultivar-specific phenology-yield analysis with complete temporal coverage. Field boundaries for spatial matching with satellite data were obtained from cadastral maps provided by the National Geographic Information Institute ([https://www.ngii.go.kr/](https://www.ngii.go.kr/)).
+
+연구 기간 동안 세들먼 농장에서는 45종의 다양한 벼 품종이 재배되었으며, 연간 품종 선정은 시장 상황과 농경학적 성과에 따라 달라졌다(보충 자료 표 S1). 대부분의 품종은 중생종에서 만생종에 속했으나, 형태적 특성, 스트레스 내성, 곡질 및 수확량 잠재력에서 상당한 다양성을 보였다. 이 45개 품종 중 단 3종만이 7년 연속 재배되었다. 골든퀸(GQ, 코드 120)은 반찰성 중만생 자포니카계 품종이다. 동진찰(DJ, 코드 180)은 식품 가공용 찰성 품종이다. 삼광(SK, 코드 240)은 비찰 중만생 품종이다. 이 세 품종은 각각 7년간의 관측 자료(품종당 n=7)를 제공하여 완전한 시간적 커버리지를 갖춘 품종별 생장 단계-수확량 분석을 가능하게 한다. 위성 데이터와의 공간적 매칭을 위한 필지 경계는 국가지리정보원(https://www.ngii.go.kr/)에서 제공한 지적도에서 확보하였다.
+
+## Connections
+- 상위개념노트: [[00.RSE_SSSS_Structure]]
+- 이전 노트: [[RSE_SSSS_2.2-2]]
+- 다음 노트: [[RSE_SSSS_2.3-1]]

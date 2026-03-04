@@ -4,5 +4,5 @@ A progressive comparison of three satellite-derived metric categories across thr
 
 ## Connections
 - 상위개념노트: [[00.RSE_SSSS_Structure]]
-- 이전 노트: [[RSE_SSSS_3.3]]
+- 이전 노트: [[RSE_SSSS_3.3-3]]
 - 다음 노트: [[RSE_SSSS_4.1-2]]

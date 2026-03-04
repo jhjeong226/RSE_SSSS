@@ -1,2 +1,3 @@
-![[Pasted image 20251114173145.png]]
-c, d에서 cluster 넘버링이 잘못되었음!
+Figure 8. Spatial gradient of Lake salinity along Ganwol Lake during the May–August period. Boxplots show the distribution of salinity at the upstream, mid-lake, and downstream sampling location, with horizontal lines indicating median values. Brackets and asterisks denote significant pairwise differences between stations (* p < 0.05, ** p < 0.01, *** p < 0.001). Salinity increases monotonically toward the downstream, coastward station that supplies irrigation water to vulnerable reclaimed paddy fields.
+
+![[Fig8_SalinityGradient_pairwise_QC.png]]

@@ -1,0 +1,7 @@
+Stress at specific growth stages dominates yield-relevant phenological variation. This indicates that developmental-stage sensitivity, rather than season-aggregate stress exposure, governs crop response in stress-affected systems. This temporal specificity warrants investigation across other stress types and cropping systems at the developmental stage scale. Land Surface Phenology metrics integrate canopy signals across broad seasonal windows, obscuring sub-seasonal stress dynamics. Finer correspondence between satellite-detected transitions and discrete crop developmental stages holds potential to reveal additional stress-sensitive periods not resolvable at the phenological scale. As climate change intensifies environmental pressures on coastal agriculture globally, frameworks that identify both the timing and spatial distribution of dominant constraints provide a foundation for spatially differentiated monitoring and adaptive management strategies in vulnerable production systems.
+
+특정 성장 단계에서의 스트레스는 수확량과 관련된 식물계절학적 변동을 지배합니다. 이는 계절별 집합적 스트레스 노출보다는 발달 단계의 민감성이 스트레스에 영향을 받는 시스템에서 작물의 반응을 지배한다는 것을 나타냅니다. 이러한 시간적 특성은 발달 단계 규모에서 다른 스트레스 유형과 작물 재배 시스템 전반에 걸친 조사를 필요로 합니다. 지표면 현상학 지표는 넓은 계절적 창에 걸쳐 캐노피 신호를 통합하여 계절에 따른 스트레스 역학을 흐리게 합니다. 위성으로 감지된 전이와 개별 작물 발달 단계 간의 미세한 상관관계는 현상학적 규모에서 해결할 수 없는 추가적인 스트레스 민감 기간을 드러낼 가능성이 있습니다. 기후 변화로 인해 전 세계적으로 해안 농업에 대한 환경적 압력이 강화됨에 따라 지배적인 제약의 시기와 공간 분포를 식별하는 프레임워크는 취약한 생산 시스템에서 공간적으로 차별화된 모니터링 및 적응형 관리 전략의 기초를 제공합니다.
+## Connections
+- 상위개념노트: [[00.RSE_SSSS_Structure]]
+- 이전 노트: [[RSE_SSSS_6-2]]
+- 다음 노트: 

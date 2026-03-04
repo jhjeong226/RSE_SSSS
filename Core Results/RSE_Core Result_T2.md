@@ -1,4 +1,4 @@
-Table 1. Comparative performance of satellite-based yield prediction metrics across three categories: peak vegetation indices, phenological timings, and phenological durations. All = all cultivars (n=68); 3 cultivars = three repeatedly cultivated cultivars combined (n=21); GQ, DJ, SK = individual cultivars (n=7 each). * p < 0.05, ** p < 0.01, *** p < 0.001. Complete results in Supplementary Tables S1-S3.
+Table 2. Comparative performance of satellite-based yield prediction metrics across three categories: peak vegetation indices, phenological timings, and phenological durations. All = all cultivars (n=68); 3 cultivars = three repeatedly cultivated cultivars combined (n=21); GQ, DJ, SK = individual cultivars (n=7 each). * p < 0.05, ** p < 0.01, *** p < 0.001. Complete results in Supplementary Tables S1-S3.
 
 | Category                  | Data Source | Metric     | All (n=68)  | 3 cultivars (n=21) | GQ (n=7) | DJ (n=7) | SG (n=7) |
 | :------------------------ | :---------- | :--------- | :---------- | :----------------- | :------- | :------- | :------- |

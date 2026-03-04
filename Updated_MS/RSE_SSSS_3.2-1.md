@@ -1,0 +1,8 @@
+To investigate which environmental factors during which specific months govern phenological timing, we analyzed the relationships between monthly environmental variables and key phenological stages. Since phenological durations are determined by the interval between start and end stages, identifying the environmental controls on these individual timings reveals the mechanisms underlying duration variability. We constructed 20 environmental variables by combining five factors (precipitation, salinity, air temperature, accumulated temperature, and vapor pressure deficit) with four growth months (May through August). Each factor-month combination was treated as an independent variable. Phenological timing metrics were extracted for all rice paddy pixels across the Seosan A district and spatially averaged to obtain annual mean values. This district-wide averaging was adopted to match the spatial representativeness of point-based environmental monitoring stations (Section 2.3). 
+
+특정 월별 환경 요인이 생물학적 시기를 어떻게 지배하는지 조사하기 위해, 월별 환경 변수와 주요 생물학적 단계 간의 관계를 분석하였다. 생물학적 기간은 시작 단계와 종료 단계 사이의 간격으로 결정되므로, 이러한 개별 시기에 대한 환경적 통제 요인을 규명하는 것이 기간 변동성의 근본적 메커니즘을 밝히는 열쇠이다. 5가지 요인(강수량, 염분, 기온, 누적 온도, 증기압 결핍)과 4개 생장 월(5월~8월)을 조합하여 20개의 환경 변수를 구축하였다. 각 요인-월 조합은 독립 변수로 처리되었다. 서산 A 지역 전체 논 픽셀에 대해 생물학적 시기 지표를 추출하고 공간 평균을 통해 연간 평균값을 산출하였다. 이 지역 전체 평균화는 점 기반 환경 관측소의 공간 대표성과 일치시키기 위해 채택되었다(2.3절). 
+
+## Connections
+- 상위개념노트: [[00.RSE_SSSS_Structure]]
+- 이전 노트: [[RSE_SSSS_3.1-4]]
+- 다음 노트: [[RSE_SSSS_3.2-2]]
