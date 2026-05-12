@@ -1,3 +1,23 @@
+---
+type:
+aliases:
+tags:
+Date_Creation: 2026-03-03 00:24:11
+Date_Update:
+id: P1-26-02.RSE
+name: RSE
+related:
+Field:
+Source:
+Object:
+Purpose:
+Tool:
+Topic:
+Method:
+Project:
+Stage:
+---
+
 The persistence of vulnerability patterns across years of varying cultivar allocation demonstrates that the distribution of chronic stress in this system is governed primarily by fixed environmental and infrastructural conditions rather than by agronomic management decisions. Cultivar selection and field-level practices certainly influence seasonal outcomes, but they cannot overcome constraints imposed by irrigation water quality. Water quality at the irrigated paddies is determined by the positions of pumping stations relative to the salinity gradient of the source reservoir, rendering field-level management alone structurally insufficient to address the underlying cause. This structural character of vulnerability underscores the value of spatially explicit diagnostic approaches, as identifying where stress is chronic and persistent is a prerequisite for directing monitoring resources effectively. The framework demonstrated here integrates temporal driver analysis with spatial vulnerability assessment to simultaneously resolve where stress concentrates, when it operates most critically, and through which phenological pathway it constrains yield formation. This combination of temporal and spatial diagnostic information offers a practical foundation for prioritizing monitoring in coastal reclaimed agricultural systems. The approach may be transferable to other reclaimed coastal areas where salinity intrusion and irrigation infrastructure similarly mediate the spatial distribution of environmental stress on crops. Such systems represent a replicable context for satellite-based vulnerability assessment using comparable phenological frameworks.
 
 다양한 품종 할당의 수년에 걸친 취약성 패턴의 지속성은 이 시스템에서 만성 스트레스의 분포가 주로 농업 경영 결정보다는 고정된 환경 및 인프라 조건에 의해 지배된다는 것을 보여줍니다. 품종 선택과 현장 수준의 관행은 확실히 계절적 결과에 영향을 미치지만, 관개 수질로 인한 제약을 극복할 수는 없습니다. 관개된 논의 수질은 원천 저수지의 염도 구배에 따른 펌핑 스테이션의 위치에 의해 결정되므로 현장 수준의 관리만으로는 근본적인 원인을 해결하기에 구조적으로 불충분합니다. 이러한 취약성의 구조적 특성은 공간적으로 명확한 진단 접근 방식의 가치를 강조하며, 스트레스가 만성적이고 지속적인 위치를 식별하는 것이 모니터링 자원을 효과적으로 관리하기 위한 전제 조건임을 보여줍니다. 여기서 시연된 프레임워크는 시간적 요인 분석과 공간적 취약성 평가를 통합하여 스트레스가 집중되는 위치, 가장 중요하게 작용하는 위치, 그리고 이를 통해 수확량 형성을 제한하는 위치를 동시에 해결합니다. 이러한 시간적 및 공간적 진단 정보의 조합은 해안 간척 농업 시스템에서 모니터링 우선순위를 정하는 실질적인 기반을 제공합니다. 이 접근 방식은 염분 침입과 관개 인프라가 작물에 대한 환경 스트레스의 공간적 분포를 유사하게 매개하는 다른 간척 해안 지역으로 이전될 수 있습니다. 이러한 시스템은 유사한 페놀론적 프레임워크를 사용하여 위성 기반 취약성 평가를 위한 복제 가능한 맥락을 나타냅니다.

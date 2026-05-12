@@ -1,3 +1,23 @@
+---
+type:
+aliases:
+tags:
+Date_Creation: 2026-02-20 15:13:43
+Date_Update:
+id: P1-26-02.RSE
+name: RSE
+related:
+Field:
+Source:
+Object:
+Purpose:
+Tool:
+Topic:
+Method:
+Project:
+Stage:
+---
+
 Phenological timings demonstrated substantially improved predictive performance relative to peak vegetation indices (Supplementary Table S3). Analysis of the complete dataset (n = 68) revealed that timings from the onset of green-up through peak greenness and early senescence (U15 through D90) were predominantly negatively correlated with yield, whereas only the later senescence stages (D50 and D15) exhibited positive correlations. At the all-cultivar level, U90 emerged as the strongest timing predictor (Table 1). When analysis was restricted to the three repeatedly cultivated cultivars (n = 21), U50 exhibited notably superior performance relative to all other timing metrics (Table 1). Nevertheless, individual phenological timings explained less than half of the yield variance at both levels, a performance level that fell short of the explanatory capacity subsequently achieved by interval-based duration metrics.
 
 생태학적 시기는 최대 식생 지수에 비해 예측 성능이 현저히 개선된 것으로 나타났다(보충 자료 표 S3). 전체 데이터셋(n = 68) 분석 결과, 초록화 시작부터 최대 초록기 및 초기 노화기(U15부터 D90)까지의 시기는 수확량과 주로 음의 상관관계를 보인 반면, 후기 노화 단계(D50 및 D15)만 양의 상관관계를 나타냈다. 모든 품종 수준에서 U90이 가장 강력한 시기 예측 변수로 나타났다(표 1). 반복 재배된 3개 품종(n = 21)으로 분석을 제한했을 때, U50은 다른 모든 시기 지표 대비 현저히 우수한 성능을 보였다(표 1). 그럼에도 개별 생장 시기 지표들은 양 수준에서 수확량 변동의 절반 미만을 설명했으며, 이는 이후 구간 기반 지속 기간 지표들이 달성한 설명력에 미치지 못하는 수준이었다.

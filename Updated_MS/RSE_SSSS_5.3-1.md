@@ -1,3 +1,23 @@
+---
+type:
+aliases:
+tags:
+Date_Creation: 2026-03-02 20:27:42
+Date_Update:
+id: P1-26-02.RSE
+name: RSE
+related:
+Field:
+Source:
+Object:
+Purpose:
+Tool:
+Topic:
+Method:
+Project:
+Stage:
+---
+
 The convergence of independent spatial analyses on the same southern regions of the Seosan A district demonstrates that chronic vulnerability reflects a spatially structured environmental constraint rather than stochastic variation or management-driven effects. Both duration-based severity clustering and frequency analysis identified the southeastern and southwestern portions of the district as persistently affected. This spatial consistency persisted despite annual variation in cultivar allocation, indicating that fixed environmental conditions govern the spatial distribution of stress more strongly than agronomic decisions. The north-south vulnerability gradient broadly corresponded to the coverage zones of pumping stations drawing irrigation water from Ganwol Lake. Salinity monitoring along the lake revealed that downstream sampling locations recorded a mean salinity 40.3% higher than upstream locations during the critical May through August period. Consequently, paddies irrigated by downstream pumping stations received irrigation water with chronically elevated salinity concentrations during the early growing season. This condition systematically delayed vegetative development. Early developmental deficits constrain tiller establishment and ultimately limit the duration available for reproductive growth. The elevated salinity at downstream locations likely reflects, in part, their closer proximity to the coast, where tidal intrusion may contribute to higher background salinity concentrations.
 
 서산 A지구의 동일한 남부 지역에 대한 독립적인 공간 분석의 수렴은 만성적인 취약성이 확률적 변동이나 관리 주도 효과보다는 공간적으로 구조화된 환경적 제약을 반영한다는 것을 보여줍니다. 지속 기간 기반 심각도 군집화와 빈도 분석 모두 지구의 남동부 및 남서부 지역이 지속적으로 영향을 받는 것으로 확인되었습니다. 이러한 공간적 일관성은 품종 할당의 연간 변동에도 불구하고 지속되었으며, 이는 고정된 환경 조건이 농업 결정보다 스트레스의 공간 분포를 더 강하게 지배한다는 것을 나타냅니다. 남북 취약성 기울기는 대체로 간월호에서 관개용수를 끌어오는 펌프장의 커버리지 구역과 일치했습니다. 호수 주변의 염분 모니터링 결과, 하류 샘플링 위치가 중요한 5월부터 8월까지 상류 위치보다 평균 염분이 40.3% 더 높은 것으로 나타났습니다. 그 결과, 하류 펌프장으로 관개된 논은 초기 생육 기간 동안 만성적으로 염분 농도가 높은 관개용수를 받았습니다. 이 조건은 식물 발달을 체계적으로 지연시켰습니다. 초기 발달 결손은 경운기의 정착을 제한하고 궁극적으로 번식 가능한 기간을 제한합니다. 하류 위치의 염분 농도가 높아진 것은 부분적으로 해안과의 근접성을 반영하여 조석 침입이 더 높은 배경 염분 농도에 기여할 수 있음을 시사합니다.

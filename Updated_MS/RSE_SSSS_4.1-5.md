@@ -1,3 +1,23 @@
+---
+type:
+aliases:
+tags:
+Date_Creation: 2026-02-20 15:27:40
+Date_Update:
+id: P1-26-02.RSE
+name: RSE
+related:
+Field:
+Source:
+Object:
+Purpose:
+Tool:
+Topic:
+Method:
+Project:
+Stage:
+---
+
 The predictive performance of U90-D50 varied markedly across individual cultivars (Table 1, Figs. 2b–2d). Whereas GQ and DJ exhibited strong cultivar-specific correlations (r = 0.874 and r = 0.851, respectively), SK produced a substantially weaker, non-significant relationship (r = 0.525). This performance divergence coincided with pronounced differences in the spatial heterogeneity of pixel-level duration distributions across cultivars, as illustrated in Figure 3. SK exhibited the highest within-cultivar spatial variability (mean σ = 6.5 days), whereas DJ showed the lowest (mean σ = 3.7 days), with GQ displaying intermediate variability (mean σ = 4.4 days) despite its substantially larger cultivation area (Supplementary Table S5). These results demonstrated that within-cultivar spatial homogeneity, rather than cultivation area, was associated with the reliability of U90-D50 as a satellite-based yield proxy.
 
 U90-D50의 예측 성능은 개별 품종에 따라 현저히 달랐다(표 1, 그림 2b–2d). GQ와 DJ는 강한 품종 특이적 상관관계(각각 r = 0.874, r = 0.851)를 보인 반면, SK는 현저히 약하고 유의하지 않은 관계(r = 0.525)를 나타냈다. 이러한 성능 차이는 그림 3에 표시된 바와 같이 품종 간 픽셀 수준 지속 시간 분포의 공간적 이질성에서 두드러진 차이와 일치했다. SK는 품종 내 공간적 변동성이 가장 높았으며(평균 σ = 6.5일), DJ는 가장 낮았고(평균 σ = 3.7일), GQ는 상당히 넓은 재배 면적에도 불구하고 중간 수준의 변동성을 보였습니다(평균 σ = 4.4일, 보충 자료 표 S5). 이러한 결과는 재배 면적보다는 품종 내 공간적 균일성이 위성 기반 수확량 대리 지표로서 U90-D50의 신뢰성과 연관되어 있음을 입증했다.

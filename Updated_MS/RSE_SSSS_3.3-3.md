@@ -1,3 +1,23 @@
+---
+type:
+aliases:
+tags:
+Date_Creation: 2026-03-04 15:16:07
+Date_Update:
+id: P1-26-02.RSE
+name: RSE
+related:
+Field:
+Source:
+Object:
+Purpose:
+Tool:
+Topic:
+Method:
+Project:
+Stage:
+---
+
 Second, K-means clustering (k=6) was applied to the temporal distribution of yield proxy values to establish discrete vulnerability classes ranging from stable to severely vulnerable conditions.
 
 둘째, 수확량 대리값의 시간적 분포에 K-평균 군집화(k=6)를 적용하여 안정 상태부터 심각 취약 상태에 이르는 이산적 취약성 등급을 설정하였다.
